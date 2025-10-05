@@ -1,0 +1,18 @@
+date_iso: 2025-09-05T20:16:38.594533+00:00
+mac_chip: Apple M3
+ram_bytes: 8589934592
+os_version: 15.6.1
+python_version: 3.13.3
+pytorch_version: 2.6.0
+mps_built: True
+mps_available: True
+blas_threads: 4
+interop_threads: 8
+power_mode: Battery
+warmup_N: 20
+timed_runs_M: 500
+seq_len: 10
+batch_size: 1
+fallback_disabled: True
+data_hash: c4b992d168878b4c6a1fb91d50c6360195a1318fec1d7373d714d2276aa36b4b
+model_hash: beb69d87a5fac931d5296e35ac8ce58348aae7e15d7dd265c6abb6beb025071f
